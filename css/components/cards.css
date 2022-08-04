@@ -1,0 +1,32 @@
+.how-it-works-container {
+  width: 900px;
+  margin: 30px auto;
+}
+
+.cards-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 900px;
+}
+
+.card {
+  height: 250px;
+  width: 220px;
+  border-color: rgb(210,210,210);
+  box-shadow: 0 0 15px rgb(0 0 0 / 20%);
+  text-align: center;
+  padding: 15px;
+}
+
+.card p {
+  color: rgb(210,210,210);
+}
+
+.card img {
+  height: 40%;
+}
+
+.text-center {
+  text-align: center;
+}

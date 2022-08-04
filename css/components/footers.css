@@ -1,0 +1,21 @@
+.footer {
+  /* width: 100%; */
+  background-color: #2C2B2B;
+  margin: 20px, auto;
+  padding: 60px;
+}
+
+.links p {
+  text-align: center;
+  color: rgb(150,150,150);
+}
+
+.links {
+  text-align: center;
+  margin: 20px, auto;
+}
+
+.fab {
+  color: #1EDD88;
+  font-size: 30px;
+}
